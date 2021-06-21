@@ -1,0 +1,5 @@
+1613051219468	Delete element
+1613051416635	Rename package 'com.formacionbdi.microservicios.commons'
+1613053444792	Rename type 'AlumnoService'
+1613053483408	Rename type 'AlumnoServiceImpl'
+1613063113147	Rename type 'AlumnoController'
